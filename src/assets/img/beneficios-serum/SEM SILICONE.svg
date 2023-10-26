@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="104" viewBox="0 0 104 104">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_698" data-name="Retângulo 698" width="104" height="104" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="SEM_SILICONE" data-name="SEM SILICONE" clip-path="url(#clip-path)">
+    <path id="Caminho_1457" data-name="Caminho 1457" d="M52,0a52,52,0,1,0,52,52A52,52,0,0,0,52,0m0,101.86A49.86,49.86,0,1,1,101.86,52,49.86,49.86,0,0,1,52,101.86" fill="#fff"/>
+    <path id="Caminho_1458" data-name="Caminho 1458" d="M67.288,70.051l-8.494-8.494A6.085,6.085,0,0,1,67.4,52.952l8.494,8.493,1.375-1.375a1.964,1.964,0,0,1,2.777,2.778L68.69,74.2a1.964,1.964,0,0,1-2.778-2.778l2.9-2.9" transform="translate(-32.715 -29.363)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Caminho_1459" data-name="Caminho 1459" d="M87.643,90.406l21.216,21.216a6.085,6.085,0,0,0,6.622,1.323l2,2a2.577,2.577,0,0,0,3.645-3.645l-2.158-2.158a6.082,6.082,0,0,0-1.5-6.124L96.249,81.8" transform="translate(-50.293 -46.94)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Linha_24" data-name="Linha 24" y1="8.606" x2="8.606" transform="translate(48.019 45.529)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Linha_25" data-name="Linha 25" x1="1.689" y1="1.689" transform="translate(62.047 56.996)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Caminho_1460" data-name="Caminho 1460" d="M158.784,171.882s4.5,3.685,4.5,8.479a4.5,4.5,0,1,1-9.007,0C154.28,175.567,158.784,171.882,158.784,171.882Z" transform="translate(-88.531 -98.632)" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="78" viewBox="0 0 78 78">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_659" data-name="Retângulo 659" width="78" height="78" fill="none" stroke="#f38599" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Ameniza_rugas" data-name="Ameniza rugas" transform="translate(-9.699 -9.7)">
+    <g id="Ameniza_rugas-2" data-name="Ameniza rugas" transform="translate(9.699 9.7)" clip-path="url(#clip-path)">
+      <path id="Caminho_1359" data-name="Caminho 1359" d="M24.719,126.411a43.436,43.436,0,0,1,14.073-2.559c7.2,0,12.953,3.838,20.469,3.838s13.273-3.838,20.469-3.838A43.436,43.436,0,0,1,93.8,126.411" transform="translate(-20.261 -89.969)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_1360" data-name="Caminho 1360" d="M24.719,147.961A43.436,43.436,0,0,1,38.792,145.4c7.2,0,12.953,3.838,20.469,3.838S72.534,145.4,79.73,145.4A43.436,43.436,0,0,1,93.8,147.961" transform="translate(-20.261 -105.123)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_1361" data-name="Caminho 1361" d="M123.851,180.69l5.117-5.117,5.118,5.117" transform="translate(-89.968 -126.338)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Linha_14" data-name="Linha 14" y2="17.911" transform="translate(39 49.235)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_1362" data-name="Caminho 1362" d="M203.047,89.371l-5.117,5.117-5.118-5.117" transform="translate(-138.46 -65.723)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_1363" data-name="Caminho 1363" d="M54.889,89.371l5.117,5.117,5.118-5.117" transform="translate(-41.476 -65.723)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Linha_15" data-name="Linha 15" y1="17.911" transform="translate(59.469 10.855)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Linha_16" data-name="Linha 16" y1="17.911" transform="translate(18.531 10.855)" fill="none" stroke="#f38599" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
